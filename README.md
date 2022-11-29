@@ -4,7 +4,7 @@
 
 This is a refactor of the Horiseon website to improve SEO and accessibility.
 
-I updated all div in the index.html file to semantic html and updated the corresponding css.
+I updated all div in the index.html file to semantic html, updated the corresponding css, and added alt text to images.
 ## Screenshot
 
 <p align="center">
