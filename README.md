@@ -8,3 +8,5 @@ I updated all div in the index.html file to semantic html and updated the corres
 ## Screenshot
 
 ## Link to deployed site
+
+https://jaycee808.github.io/horiseon-code-refactor/
