@@ -7,7 +7,9 @@ This is a refactor of the Horiseon website to improve SEO and accessibility.
 I updated all div in the index.html file to semantic html and updated the corresponding css.
 ## Screenshot
 
-![Screenshot](screenshot.png)
+<p align="center">
+  <img src="/assets/images/screenshot.png" width="350" title="screenshot of Horiseon deployed site">
+</p>
 
 ## Link to deployed site
 
